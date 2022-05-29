@@ -1,12 +1,12 @@
 # Cestino
 
 Un cestino per la propria vanilla su minecraft.
-<br>
+
 <hr>
 
 <b>ITALIANO</b> 
 
-<i>Questo è uno dei miei primi plugin programmati in Java, so che non è molto ma può essere comodo per la vostra vanilla, il codice è abbbastanza semplice da capire.<i>
+<i>Questo è uno dei miei primi plugin programmati in Java, so che non è molto ma può essere comodo per la vostra vanilla, il codice è abbbastanza semplice da capire. Come tutti i principianti ho usato Maven e la build del plugin è all'incirca di 3/4 secondi.<i>
   
 <br>
 
@@ -15,7 +15,13 @@ Un cestino per la propria vanilla su minecraft.
   
 <hr>
 <br>
-  <b>Il plugin da caricare nel vostro server lo trovate cliccando sulla parola >> <a href="https://bit.ly/3aj1SBK">Scarica plugin!</a> <b>
-<br>    
-<br>
+  
+<b>Il plugin da caricare nel vostro server lo trovate cliccando sulla parola >> <a href="https://bit.ly/3aj1SBK">Scarica plugin!</a> <b>
+
+<br>  
+  
+<b>Ringrazio tutti coloro che useranno il mio plugin <3 <b>
+
+<br>  
+  
 <hr>
