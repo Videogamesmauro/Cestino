@@ -1,0 +1,15 @@
+name: Cestino
+version: '${project.version}'
+main: it.mauro.main
+api-version: 1.18
+authors: [ Videogamesmauro ]
+description: Un cestino portatile.
+website: https://www.github.com/Videogamesmauro
+
+commands:
+  cestino:
+    description: Apre il cestino.
+    aliases: [ct]
+  versione:
+    description: Controlla se il plugin è aggiornato.
+    aliases: [update, ud]
