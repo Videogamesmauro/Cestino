@@ -16,7 +16,7 @@ Un cestino per la propria vanilla su minecraft.
 <hr>
 <br>
   
-<b>Il plugin da caricare nel vostro server lo trovate cliccando sulla parola >> <a href="https://www.spigotmc.org/resource/cestino.102452">Scarica plugin!</a> <b>
+<b>Il plugin da caricare nel vostro server lo trovate cliccando sulla parola >> <a href="https://www.spigotmc.org/resources/cestino.102452">Scarica plugin!</a> <b>
 
 <br>  
   
